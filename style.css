@@ -1,0 +1,24 @@
+#main{
+    border: 3px solid;
+    margin: 50px;
+    padding: 10px;
+    border-radius: 15px;
+    background-color: rgb(201, 194, 194);
+}
+
+
+#heading{
+    text-align: center;
+    font-family: sans-serif;
+}
+#subtitle{
+    text-indent: 20px;
+}
+#para{
+    text-indent: 210px;
+}
+
+#head2{
+    text-align: right;
+    margin-right: 20px;
+}
